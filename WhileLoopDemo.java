@@ -18,8 +18,8 @@ public class WhileLoopDemo {
 //		}
 //			
 //
-		//Do while
-			int sum=0, start=1;
+		//Do while statement
+			int sum=0, start=1, k=0;
 			
 			do {
 				sum+=start;
