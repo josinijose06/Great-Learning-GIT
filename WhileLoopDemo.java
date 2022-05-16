@@ -16,10 +16,10 @@ public class WhileLoopDemo {
 //				i++;
 //			
 //		}
-//			
+//			kkkkkkk
 //
 		//Do while statement
-			int sum=0, start=1, k=0;
+			int sum=0, start=1;
 			
 			do {
 				sum+=start;
